@@ -86,6 +86,6 @@ java -cp src/test TestObserverPattern
 
 ## Author
 
-- [Your Name](https://github.com/Avudai-Nayagam)
+- [AVUDAI NAYAGAM](https://github.com/Avudai-Nayagam)
 
 ---
